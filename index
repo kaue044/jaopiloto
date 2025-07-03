@@ -1,5 +1,50 @@
+
 <!doctype html>
 <html>
 <head>
-<meta charset = "utl-´8´>
-<meta http-equiv=´X-UA-compatible '
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>título da aba</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+  <script src="main.js"></script>
+</head>
+<body>
+  <header>
+    <img id="tituloimagem" src="logo.jpg" alt="descrição imagem">
+  </header>
+
+  <nav>
+    <ul id="lista01">
+      <li><a target="_blank" href="index.html">home</a></li>
+      <li><a target="_blank" href="http://www.consultaescola.pr.gov.br/">site do colégio</a></li>
+      <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100009582999054">facebook</a></li>
+    </ul>
+  </nav>
+
+  <header>
+  </header>
+
+  <main>
+    <h1>título da página</h1>
+
+    <div class="primeiroparagrafo">
+      <h3>título do texto</h3>
+      <p><b>texto</b></p>
+    </div>
+
+    <ul id="lista02">
+      <li>item01</li>
+      <li>item02</li>
+      <li>item03</li>
+    </ul>
+
+    <h1>*</h1>
+  </main>
+
+  <footer>
+    <img id="tituloimagem" src="logo.jpg" alt="descrição de imagem">
+    <p>footer</p>
+  </footer>
+</body>
+</html>
